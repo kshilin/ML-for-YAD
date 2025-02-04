@@ -7,7 +7,7 @@
 Что читать:
 
 Основное:
-- [Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.ozon.ru/product/vvedenie-v-mashinnoe-obuchenie-s-pomoshchyu-python-rukovodstvo-dlya-spetsialistov-po-rabote-140891479/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYQpWkVvvgHSqLxKZQrHxeiy7tnd4JtJVGMAZVf4qiqFYEd_v_Cij4aAqOREALw_wcB&sh=b6tA4YBT&utm_campaign=RF_Product_Shopping_Books_super&utm_medium=cpc&utm_source=google) есть в библиотеке Академии
+- [Машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.ozon.ru/product/vvedenie-v-mashinnoe-obuchenie-s-pomoshchyu-python-rukovodstvo-dlya-spetsialistov-po-rabote-140891479/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYQpWkVvvgHSqLxKZQrHxeiy7tnd4JtJVGMAZVf4qiqFYEd_v_Cij4aAqOREALw_wcB&sh=b6tA4YBT&utm_campaign=RF_Product_Shopping_Books_super&utm_medium=cpc&utm_source=google) есть в библиотеке Академии
 
 Дополнительно:
 - крайне желательно, тут есть необходимый математический минимум [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных.](https://www.ozon.ru/product/mashinnoe-obuchenie-nauka-i-iskusstvo-postroeniya-algoritmov-kotorye-izvlekayut-znaniya-iz-217048107/?asb=25p291gGS%252FCtwe%252FjizxZ40KhUIng1%252BGBJ65n1NckUP0%253D&asb2=5otbXtWhS5lFsWrW0EAE3EXSr9oplIybpDq8Xe7cGjA&keywords=Петер+флах&sh=qhGNMon5);
