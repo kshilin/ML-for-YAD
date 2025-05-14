@@ -1,0 +1,683 @@
+price,m2,beds,bath,laundry,pets,housing_type,parking,hood_district
+3450,8.19928962045195,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+1775,2.7618659774153937,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+2195,3.486855796486934,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+2950,7.33620650250964,2.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+3150,6.904664943538484,2.0,1.0,(b) on-site,(d) no pets,(a) single,(d) no parking,9.0
+4000,9.062372738394261,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2999,6.473123384567329,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+5200,12.514705210163502,3.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,5.0
+3699,9.493914297365416,3.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,8.0
+3898,9.47665263500657,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+2900,8.19928962045195,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+3200,6.904664943538484,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+1890,4.746957148682708,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+3300,8.242443776349067,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,6.0
+3600,5.437423643036556,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+1800,4.315415589711552,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+3000,6.257352605081751,1.0,1.5,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+3549,6.818356631744254,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2800,8.371906244040412,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2795,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+3595,10.400151571204841,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+4500,9.83914754454234,4.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,7.0
+2750,5.178498707653863,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,5.0
+3000,6.904664943538484,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(c) off-street,1.0
+4195,7.767748061480795,2.0,2.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+3500,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2595,5.610040266625019,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,1.0
+5000,12.083163651192347,3.0,3.5,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+4500,11.220080533250037,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,8.0
+2950,8.630831179423105,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+3184,6.076105150313865,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2650,7.1204357230240625,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+1850,4.315415589711552,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,8.0
+4500,8.415060399937529,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+1895,3.711257407151935,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3370,6.904664943538484,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+3395,7.767748061480795,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+3200,6.904664943538484,2.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,9.0
+3400,5.7653952278546345,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+3250,7.767748061480795,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,5.0
+3975,9.493914297365416,2.0,2.5,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2790,4.729695486323862,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3995,7.8367947109161795,2.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2418,3.7198882383313583,0.0,1.0,(a) in-unit,(d) no pets,(c) multi,(c) off-street,9.0
+2339,4.41898556386463,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2600,5.610040266625019,1.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,9.0
+2495,7.767748061480795,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,2.0
+1400,2.5892493538269314,0.0,1.0,(a) in-unit,(d) no pets,(c) multi,(c) off-street,10.0
+3100,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+4305,11.78108455991254,3.0,2.5,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+1290,2.0713994830615454,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+3951,6.568062527540984,2.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2795,5.730871903136942,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,5.0
+4800,12.514705210163502,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+3850,8.33738291932272,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2998,5.049036239962517,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2900,5.178498707653863,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+4200,12.083163651192347,3.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3100,8.630831179423105,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,2.0
+4700,15.967037681932744,4.0,2.5,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+2075,4.315415589711552,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,7.0
+3800,7.534715619636371,1.0,1.0,(a) in-unit,(b) dogs,(c) multi,(a) valet,9.0
+2445,3.452332471769242,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+2995,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+2956,5.558255279548479,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,2.0
+4242,8.466845387014066,2.0,2.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+5650,8.078457983940027,4.0,2.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,6.0
+2986,4.341308083249822,1.0,1.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+2404,8.907017777164645,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,10.0
+5915,15.388771992911398,3.0,3.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+2395,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,5.0
+4800,18.17653046386506,3.0,2.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3500,8.725770322396759,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+1850,3.2365616922836646,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+3300,6.904664943538484,3.0,3.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,2.0
+1600,3.66810325125482,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2698,6.904664943538484,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+1995,3.8838740307403974,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+3000,8.458214555834644,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2975,7.595131437892333,2.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,8.0
+3950,12.359350248933886,3.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,9.0
+1950,3.8838740307403974,1.0,1.0,(c) no laundry,(d) no pets,(a) single,(c) off-street,3.0
+3095,6.473123384567329,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+4400,10.072179986386763,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+4750,8.44958372465522,3.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2300,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,10.0
+3950,13.809329887076968,3.0,1.5,(b) on-site,(d) no pets,(a) single,(b) protected,10.0
+2750,8.768924478293876,1.0,1.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4876,11.09061806555869,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2000,4.531186369197131,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,6.0
+2900,6.257352605081751,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,6.0
+3995,7.33620650250964,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+2450,3.8838740307403974,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+3400,6.473123384567329,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,6.0
+3800,12.946246769134659,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+3500,7.33620650250964,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+5595,9.925455856336571,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3700,13.809329887076968,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,6.0
+2950,5.230283694730402,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+5000,10.184380791719265,2.0,2.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+2500,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,4.0
+5500,15.190262875784667,3.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+2900,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+3700,9.062372738394261,2.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+5000,10.70223066248465,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,5.0
+2200,4.315415589711552,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,7.0
+3100,4.841896291656362,1.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,7.0
+2137,4.142798966123091,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+1895,4.315415589711552,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,10.0
+2100,4.315415589711552,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+4500,13.256956691593889,3.0,2.0,(c) no laundry,(a) both,(a) single,(b) protected,3.0
+5950,18.124745476788522,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2702,9.502545128544838,1.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+4595,12.083163651192347,4.0,1.5,(a) in-unit,(d) no pets,(c) multi,(d) no parking,6.0
+1250,1.726166235884621,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+3150,7.940364685069257,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+4995,12.946246769134659,3.0,2.0,(a) in-unit,(a) both,(c) multi,(c) off-street,5.0
+3807,13.740283237641584,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,10.0
+5700,12.946246769134659,3.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3900,10.823062298996573,2.0,1.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2650,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,4.0
+2600,4.816003798118093,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+2700,7.33620650250964,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,2.0
+1950,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,2.0
+4500,10.75401564956119,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,6.0
+4050,10.356997415307726,3.0,1.5,(a) in-unit,(c) cats,(c) multi,(d) no parking,9.0
+2750,5.411531149498287,1.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,9.0
+3500,6.904664943538484,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,7.0
+3700,8.630831179423105,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+1695,4.315415589711552,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3600,11.047463909661575,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+2100,4.746957148682708,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+3698,7.767748061480795,3.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2300,5.178498707653863,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,2.0
+5000,18.124745476788522,6.0,3.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,2.0
+4495,10.356997415307726,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+4150,7.284421515433101,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2890,4.194583953199629,0.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2995,6.990973255332715,2.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,5.0
+1950,3.9701823425346285,0.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+3990,4.315415589711552,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+5200,14.67241300501928,4.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+4991,7.871318035633872,2.0,2.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+5400,13.809329887076968,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+3900,8.19928962045195,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+1691,2.0023528336261602,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+3107,5.955273513801942,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3900,13.222433366876198,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+2246,4.108275641405398,0.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,2.0
+3300,7.905841360351564,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2610,5.989796838519635,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3800,6.904664943538484,2.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,9.0
+2495,4.16869145966136,2.0,1.0,(b) on-site,(b) dogs,(c) multi,(d) no parking,8.0
+3044,6.481754215746752,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2483,3.7371499006902043,0.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2680,5.100821227039055,1.0,1.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2450,5.610040266625019,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,6.0
+4400,12.083163651192347,4.0,2.5,(a) in-unit,(a) both,(c) multi,(c) off-street,7.0
+3050,6.214198449184636,2.0,1.0,(a) in-unit,(c) cats,(a) single,(d) no parking,9.0
+4000,15.53549612296159,2.0,2.5,(a) in-unit,(c) cats,(c) multi,(b) protected,9.0
+5995,14.67241300501928,3.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,1.0
+3995,8.19928962045195,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+5200,10.279319934692918,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3900,10.037656661669072,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3250,7.189482372459447,2.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2660,5.307961175345209,1.0,1.0,(b) on-site,(a) both,(c) multi,(c) off-street,5.0
+4500,8.630831179423105,1.0,1.5,(b) on-site,(b) dogs,(c) multi,(b) protected,7.0
+4500,7.905841360351564,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+3107,8.251074607528489,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2700,5.825811046110596,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2786,3.66810325125482,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+3190,7.249898190715408,2.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+1820,4.453508888582323,0.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2800,5.178498707653863,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+5900,12.514705210163502,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(c) off-street,5.0
+1699,4.746957148682708,1.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,6.0
+3100,6.473123384567329,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+3250,6.904664943538484,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+3950,10.615922350690418,3.0,2.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+5250,15.53549612296159,4.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+2550,6.473123384567329,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+2349,5.351115331242325,1.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,8.0
+3416,7.6382855937894485,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4495,8.67398533532022,2.0,1.0,(b) on-site,(a) both,(c) multi,(c) off-street,7.0
+2733,6.585324189899829,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3395,5.903488526725404,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+2900,8.458214555834644,2.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,9.0
+3700,7.767748061480795,2.0,1.0,(a) in-unit,(d) no pets,(a) single,(b) protected,2.0
+2099,4.531186369197131,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,1.0
+4200,10.356997415307726,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+4750,12.946246769134659,3.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,1.0
+4595,7.767748061480795,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+3725,7.379360658406755,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+1900,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+4375,12.764999314366772,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3198,7.983518840966372,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+2900,7.33620650250964,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,6.0
+4099,11.220080533250037,3.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,5.0
+2300,5.178498707653863,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(b) protected,5.0
+3500,6.0415818255961735,2.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2335,6.0415818255961735,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3271,7.42251481430387,1.0,2.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+3000,8.19928962045195,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+5600,15.53549612296159,2.0,2.0,(a) in-unit,(c) cats,(c) multi,(b) protected,8.0
+3600,10.831693130175998,1.0,1.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2800,8.19928962045195,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2595,5.955273513801942,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2550,5.264807019448094,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3250,7.776378892660217,1.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4200,12.946246769134659,3.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+4600,10.788538974278882,3.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2200,3.702626575972512,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3300,8.371906244040412,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+4149,10.356997415307726,3.0,1.5,(b) on-site,(d) no pets,(c) multi,(b) protected,2.0
+2195,6.473123384567329,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+2815,5.359746162421748,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+4075,8.19928962045195,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+4500,12.514705210163502,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+3500,9.03648024485599,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+4202,7.33620650250964,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+1600,2.5892493538269314,0.0,1.0,(c) no laundry,(d) no pets,(a) single,(d) no parking,10.0
+4500,9.554330115621378,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(a) valet,9.0
+3734,9.183204374906184,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2500,8.630831179423105,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+2950,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,6.0
+3950,5.221652863550978,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3250,7.767748061480795,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+3400,5.868965202007712,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,6.0
+2195,3.5645332771017424,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+5450,10.70223066248465,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+1780,2.5892493538269314,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+3995,8.630831179423105,2.0,2.0,(a) in-unit,(c) cats,(c) multi,(b) protected,5.0
+2882,6.870141618820792,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+2345,4.315415589711552,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,2.0
+2574,6.352291748055405,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2995,8.078457983940027,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+3995,7.767748061480795,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,7.0
+3700,9.493914297365416,2.0,1.0,(c) no laundry,(d) no pets,(a) single,(b) protected,2.0
+5500,12.946246769134659,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+3459,7.612393100251179,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3250,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+3575,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+4265,11.78108455991254,3.0,2.5,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+3588,8.58767702352599,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+5555,13.420942484002929,5.0,1.5,(c) no laundry,(a) both,(c) multi,(d) no parking,5.0
+3000,6.421338397490791,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,4.0
+2500,8.19928962045195,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,2.0
+5200,8.630831179423105,3.0,1.0,(a) in-unit,(d) no pets,(a) single,(c) off-street,7.0
+2996,7.724593905583679,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,8.0
+2695,8.630831179423105,2.0,2.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,5.0
+3995,10.270689103513496,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3450,9.493914297365416,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+2800,6.732048319950022,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+2500,4.315415589711552,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+3700,6.904664943538484,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+2395,4.315415589711552,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+2490,3.9701823425346285,0.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+4295,7.163589878921178,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2600,6.904664943538484,1.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,8.0
+2800,6.188305955646366,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+3150,8.630831179423105,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,8.0
+3395,7.767748061480795,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+3895,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,8.0
+4000,10.918001441970228,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3498,8.58767702352599,2.0,2.0,(b) on-site,(a) both,(c) multi,(c) off-street,5.0
+2800,5.635932760163287,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3200,7.905841360351564,1.0,1.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,9.0
+3850,9.062372738394261,2.0,1.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3990,6.352291748055405,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2906,6.455861722208482,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+3500,6.740679151129445,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+4495,12.083163651192347,3.0,2.0,(b) on-site,(a) both,(c) multi,(c) off-street,2.0
+2800,7.5519772819952165,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+4500,9.709685076850993,2.0,1.0,(a) in-unit,(a) both,(a) single,(b) protected,5.0
+1995,4.746957148682708,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,2.0
+1675,3.0207909127980868,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+3896,6.283245098620021,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+4068,9.606115102697917,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+5500,25.029410420327004,4.0,2.0,(c) no laundry,(c) cats,(a) single,(b) protected,2.0
+2595,6.386815072773098,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+4500,12.083163651192347,3.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2450,4.574340525094246,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2990,5.5237319548307875,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+1850,3.66810325125482,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,8.0
+3395,9.493914297365416,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4250,10.037656661669072,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+5595,15.53549612296159,4.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+2400,5.739502734316365,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2420,6.291875929799444,1.0,1.0,(c) no laundry,(c) cats,(a) single,(d) no parking,3.0
+2200,4.315415589711552,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+3000,7.767748061480795,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+2880,6.473123384567329,2.0,1.0,(a) in-unit,(b) dogs,(c) multi,(d) no parking,1.0
+3950,8.50136871173176,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+4595,10.356997415307726,3.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3500,10.788538974278882,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+3581,7.957626347428103,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2900,5.610040266625019,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+2750,8.630831179423105,2.0,2.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,9.0
+2695,7.767748061480795,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+3995,14.240871446048125,3.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,3.0
+1660,2.0023528336261602,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+2199,4.9627279281682855,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,2.0
+3995,16.3985792409039,3.0,2.0,(a) in-unit,(a) both,(a) single,(d) no parking,8.0
+3990,7.293052346612525,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4500,10.788538974278882,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2990,5.066297902321363,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,5.0
+3999,12.946246769134659,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3869,11.099248896738112,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+5595,14.67241300501928,3.0,2.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,5.0
+3663,9.001956920138298,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2800,5.825811046110596,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2915,4.686541330426746,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,5.0
+1929,6.473123384567329,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+4250,5.178498707653863,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+2995,5.610040266625019,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+3395,10.029025830489648,2.0,2.0,(a) in-unit,(a) both,(c) multi,(c) off-street,9.0
+4800,9.537068453262531,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+4500,9.493914297365416,3.0,1.5,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+2100,3.702626575972512,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3099,7.5519772819952165,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,6.0
+2600,4.315415589711552,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+2650,6.0415818255961735,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+4500,8.829340296549837,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,7.0
+1699,4.531186369197131,1.0,1.0,(c) no laundry,(d) no pets,(b) double,(d) no parking,1.0
+3572,6.015689332057905,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3099,7.948995516248679,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3295,7.33620650250964,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,7.0
+1799,4.746957148682708,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+5195,13.999208173024275,4.0,1.5,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+1980,4.936835434630016,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,10.0
+4950,17.26166235884621,4.0,2.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,1.0
+3500,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+3884,8.138873802195988,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2685,8.371906244040412,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,10.0
+1674,5.661825253701557,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+4350,8.19928962045195,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+3195,6.473123384567329,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+3250,8.941541101882338,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+4400,10.356997415307726,3.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,8.0
+3728,8.760293647114452,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+3490,4.315415589711552,2.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+2875,5.463316136574826,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,2.0
+5000,12.083163651192347,3.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2617,5.610040266625019,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2795,6.473123384567329,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+3400,8.156135464554835,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,2.0
+2917,6.222829280364059,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3495,6.0415818255961735,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,7.0
+3100,6.473123384567329,2.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,4.0
+1700,8.19928962045195,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,10.0
+3200,6.645740008155792,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+2595,8.630831179423105,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+3290,4.194583953199629,0.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3200,5.610040266625019,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+4488,8.432322062296373,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+2700,7.767748061480795,3.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,9.0
+1899,4.746957148682708,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+4875,14.741459654454665,2.0,3.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2075,2.986267588080395,0.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,6.0
+4275,13.092970899184852,2.0,2.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+3295,8.630831179423105,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+5300,13.809329887076968,4.0,2.0,(b) on-site,(d) no pets,(a) single,(d) no parking,2.0
+2050,4.315415589711552,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+3475,7.983518840966372,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+2500,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,5.0
+3800,12.083163651192347,2.0,2.0,(b) on-site,(b) dogs,(c) multi,(d) no parking,7.0
+3595,7.500192294918678,1.0,1.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+4499,10.356997415307726,2.0,2.0,(a) in-unit,(d) no pets,(a) single,(b) protected,2.0
+3600,6.904664943538484,2.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+4195,10.356997415307726,2.0,1.5,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+4600,15.103954563990433,3.0,2.5,(c) no laundry,(d) no pets,(c) multi,(b) protected,6.0
+2066,4.738326317503285,0.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+2395,4.850527122835785,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3000,8.328752088143297,1.0,1.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3000,5.825811046110596,1.0,1.0,(b) on-site,(c) cats,(c) multi,(c) off-street,8.0
+2950,6.904664943538484,2.0,2.0,(c) no laundry,(c) cats,(c) multi,(b) protected,9.0
+3312,7.957626347428103,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3995,8.630831179423105,3.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,3.0
+3395,7.767748061480795,1.0,1.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,8.0
+1700,2.6496651720828934,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+4900,13.809329887076968,3.0,2.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3815,5.894857695545981,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4495,10.356997415307726,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,1.0
+5790,11.876023702886194,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+1600,3.452332471769242,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2600,6.904664943538484,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+5500,15.53549612296159,4.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+3000,5.4460544742159795,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+1880,3.0207909127980868,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+2600,7.42251481430387,2.0,1.0,(b) on-site,(b) dogs,(c) multi,(c) off-street,5.0
+2595,5.411531149498287,1.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,6.0
+2899,4.9627279281682855,0.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,5.0
+4050,7.163589878921178,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3650,6.473123384567329,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+3600,9.493914297365416,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,6.0
+3700,8.777555309473298,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+2800,5.178498707653863,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+5400,10.788538974278882,3.0,1.5,(b) on-site,(c) cats,(c) multi,(d) no parking,5.0
+4500,8.36327541286099,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+3100,8.19928962045195,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+4000,6.688894164052907,3.0,1.0,(b) on-site,(d) no pets,(a) single,(d) no parking,10.0
+2295,4.94546626580944,0.0,1.0,(b) on-site,(b) dogs,(c) multi,(d) no parking,8.0
+4495,13.809329887076968,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,1.0
+4350,11.306388845044268,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+1749,2.2440161066500073,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+5695,16.9595832675664,4.0,2.0,(b) on-site,(c) cats,(c) multi,(d) no parking,9.0
+2800,5.610040266625019,2.0,1.0,(c) no laundry,(d) no pets,(b) double,(d) no parking,1.0
+3975,7.983518840966372,1.0,1.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,8.0
+4595,10.20164245407811,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2500,6.0415818255961735,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,2.0
+4495,12.894461782058121,2.0,2.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2799,8.630831179423105,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,8.0
+3200,8.19928962045195,3.0,1.5,(a) in-unit,(d) no pets,(a) single,(d) no parking,10.0
+2750,6.0415818255961735,1.0,1.0,(c) no laundry,(a) both,(c) multi,(c) off-street,5.0
+2195,4.315415589711552,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+1400,2.7618659774153937,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,10.0
+1600,3.538640783563473,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2565,2.615141847365201,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+1750,3.8838740307403974,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2695,6.257352605081751,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+4250,6.637109176976368,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+3750,11.651622092221192,2.0,1.0,(a) in-unit,(d) no pets,(a) single,(b) protected,9.0
+2995,6.317768423337713,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3650,8.630831179423105,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+4648,11.332281338582538,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2199,6.473123384567329,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+3500,6.628478345796944,1.0,1.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,9.0
+2589,10.520983207716766,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,10.0
+2850,6.904664943538484,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,2.0
+2200,4.746957148682708,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3000,7.249898190715408,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+4100,10.70223066248465,2.0,1.0,(b) on-site,(d) no pets,(a) single,(c) off-street,9.0
+1500,3.366024159975011,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+4495,11.220080533250037,2.0,2.0,(b) on-site,(c) cats,(c) multi,(b) protected,7.0
+3000,7.293052346612525,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,6.0
+4195,9.666530920953878,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,7.0
+2800,6.904664943538484,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,7.0
+3650,7.232636528356562,1.0,1.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3600,8.630831179423105,4.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+3495,14.67241300501928,3.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+2750,8.371906244040412,2.0,1.0,(a) in-unit,(c) cats,(c) multi,(b) protected,10.0
+2500,6.904664943538484,1.0,1.5,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2860,9.433498479109454,2.0,2.0,(c) no laundry,(a) both,(c) multi,(d) no parking,3.0
+4500,12.946246769134659,2.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,6.0
+2395,6.0415818255961735,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,5.0
+2499,5.610040266625019,2.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,2.0
+3495,7.767748061480795,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,7.0
+3900,5.877596033187134,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+5495,10.788538974278882,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,7.0
+3495,6.904664943538484,2.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,9.0
+4295,8.11298130865772,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+2280,4.5225555380177065,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+2600,7.33620650250964,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+4995,10.667707337766958,3.0,2.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,6.0
+3995,15.53549612296159,4.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+1948,4.315415589711552,0.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+2095,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+2770,5.955273513801942,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+4500,12.946246769134659,4.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2300,6.0415818255961735,2.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,2.0
+3300,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+2843,6.214198449184636,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2404,5.307961175345209,1.0,1.0,(b) on-site,(a) both,(c) multi,(c) off-street,5.0
+2549,7.5519772819952165,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+4578,8.509999542911181,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2835,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3495,5.368376993601172,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+2195,5.092190395859633,0.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,2.0
+2595,8.630831179423105,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,2.0
+2995,10.356997415307726,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+4495,12.083163651192347,4.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+1995,3.0812067310540487,0.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,6.0
+3395,8.630831179423105,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+3750,7.776378892660217,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2900,8.630831179423105,3.0,1.0,(b) on-site,(d) no pets,(a) single,(d) no parking,3.0
+2700,5.610040266625019,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3195,7.741855567942526,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,5.0
+3200,10.356997415307726,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+5500,10.184380791719265,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+4990,14.28402560194524,3.0,2.0,(a) in-unit,(d) no pets,(a) single,(b) protected,9.0
+2800,6.0415818255961735,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,6.0
+2905,8.466845387014066,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,10.0
+1600,2.4943102108532775,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,6.0
+4695,15.967037681932744,4.0,2.5,(a) in-unit,(d) no pets,(a) single,(b) protected,10.0
+4300,8.630831179423105,3.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+3395,7.33620650250964,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+3943,12.53196687252235,3.0,2.5,(c) no laundry,(d) no pets,(c) multi,(d) no parking,10.0
+2400,9.062372738394261,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+2040,7.249898190715408,2.0,1.5,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+2337,6.904664943538484,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,9.0
+3200,6.904664943538484,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+4066,6.628478345796944,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2095,6.473123384567329,0.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+2499,5.860334370828288,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,6.0
+3300,7.767748061480795,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+4950,11.220080533250037,3.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+4500,12.462920223086963,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+2895,4.237738109096744,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+1218,1.726166235884621,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+2195,4.315415589711552,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3595,9.493914297365416,3.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+3700,10.36562824648715,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3000,7.42251481430387,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,2.0
+5995,15.53549612296159,3.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+5500,12.946246769134659,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+3000,5.610040266625019,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+3378,7.940364685069257,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3800,11.651622092221192,3.0,2.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+1600,3.0207909127980868,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+1995,2.5892493538269314,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+3135,5.359746162421748,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+3500,4.746957148682708,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,7.0
+3349,12.083163651192347,3.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+3595,10.356997415307726,2.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,9.0
+2395,5.610040266625019,1.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,6.0
+4800,8.242443776349067,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,7.0
+5100,11.703407079297731,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+2326,5.394269487139441,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+3500,7.224005697177138,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+2950,8.458214555834644,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,3.0
+5600,11.280496351505999,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+5995,12.083163651192347,2.0,2.0,(a) in-unit,(c) cats,(c) multi,(b) protected,5.0
+5566,8.820709465370413,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+2600,6.257352605081751,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,6.0
+4150,9.493914297365416,1.0,1.5,(c) no laundry,(a) both,(c) multi,(d) no parking,7.0
+3412,7.905841360351564,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+3775,8.630831179423105,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+3000,6.990973255332715,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,7.0
+4395,8.932910270702914,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,6.0
+3300,8.19928962045195,3.0,1.5,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2695,6.904664943538484,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,9.0
+4695,14.240871446048125,3.0,3.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+3500,12.083163651192347,3.0,2.0,(a) in-unit,(c) cats,(c) multi,(b) protected,3.0
+3300,13.162017548620234,2.0,1.0,(b) on-site,(d) no pets,(a) single,(d) no parking,2.0
+4350,8.19928962045195,2.0,1.0,(a) in-unit,(c) cats,(c) multi,(b) protected,8.0
+2700,6.0415818255961735,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+4590,9.062372738394261,2.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+2800,6.818356631744254,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+3450,7.767748061480795,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,1.0
+2966,6.904664943538484,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+3550,7.940364685069257,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+5250,13.809329887076968,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+5000,13.809329887076968,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+2795,5.610040266625019,2.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+1395,2.89132844510674,0.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,8.0
+3000,6.602585852258675,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,6.0
+2750,6.0415818255961735,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+1650,2.5892493538269314,0.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,2.0
+2390,6.904664943538484,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+3295,8.052565490401756,2.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,8.0
+3200,7.905841360351564,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3466,4.755587979862131,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,5.0
+3000,7.163589878921178,4.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+5000,11.220080533250037,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+2600,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,1.0
+3995,7.42251481430387,2.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+4300,11.220080533250037,3.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+3700,11.220080533250037,1.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2500,5.178498707653863,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,5.0
+2745,8.19928962045195,1.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2800,5.187129538833286,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+2500,3.0207909127980868,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+1895,4.315415589711552,1.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,8.0
+2295,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,6.0
+2075,5.825811046110596,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,10.0
+3700,9.493914297365416,3.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2950,5.178498707653863,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,6.0
+4595,10.529614038896188,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+1995,3.452332471769242,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+2750,4.746957148682708,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,2.0
+4700,15.103954563990433,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3695,7.862687204454449,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+2445,5.178498707653863,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+1595,3.452332471769242,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+2490,5.963904344981366,1.0,1.0,(c) no laundry,(c) cats,(a) single,(d) no parking,3.0
+1995,3.452332471769242,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+4500,14.67241300501928,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,7.0
+2300,6.473123384567329,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,10.0
+3595,7.905841360351564,2.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,5.0
+5695,12.333457755395617,3.0,1.5,(a) in-unit,(a) both,(c) multi,(b) protected,5.0
+1948,4.315415589711552,0.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2495,4.94546626580944,1.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,3.0
+3590,7.6382855937894485,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+2100,3.348762497616165,0.0,1.0,(c) no laundry,(c) cats,(c) multi,(d) no parking,6.0
+1400,3.0207909127980868,0.0,1.0,(a) in-unit,(d) no pets,(c) multi,(c) off-street,10.0
+2850,6.5594316963615595,1.0,1.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+4210,11.858762040527347,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+3363,9.407605985571184,2.0,2.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+2700,5.394269487139441,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,7.0
+1575,2.6755576656211626,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,8.0
+4536,7.888579697992719,2.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3550,7.767748061480795,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,9.0
+4500,9.83914754454234,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+5795,13.98194651066543,4.0,3.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2725,4.3240464208909755,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+3000,8.19928962045195,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,7.0
+4595,12.946246769134659,3.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,5.0
+4300,13.809329887076968,3.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,10.0
+2900,4.816003798118093,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+3995,7.33620650250964,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+5500,10.356997415307726,1.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2299,4.746957148682708,0.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,6.0
+1965,5.135344551756748,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,8.0
+5000,10.788538974278882,2.0,2.0,(a) in-unit,(a) both,(c) multi,(b) protected,6.0
+3750,11.86739287170677,2.0,2.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+1795,2.5892493538269314,1.0,1.0,(b) on-site,(a) both,(b) double,(d) no parking,3.0
+2999,17.26166235884621,3.0,2.0,(b) on-site,(d) no pets,(a) single,(d) no parking,10.0
+4750,13.472727471079468,3.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,6.0
+2700,6.188305955646366,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,1.0
+5200,15.53549612296159,5.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+2350,5.178498707653863,1.0,1.0,(b) on-site,(c) cats,(c) multi,(b) protected,8.0
+3000,5.610040266625019,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+4500,12.514705210163502,2.0,2.0,(b) on-site,(a) both,(c) multi,(b) protected,8.0
+3300,6.248721773902329,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+1495,3.8838740307403974,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+5295,6.429969228670213,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+3995,12.083163651192347,3.0,1.5,(c) no laundry,(c) cats,(c) multi,(d) no parking,5.0
+4200,9.925455856336571,3.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,5.0
+3150,7.767748061480795,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2975,6.473123384567329,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+1300,1.2946246769134657,0.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,2.0
+2950,6.5594316963615595,1.0,1.0,(a) in-unit,(a) both,(c) multi,(a) valet,8.0
+2299,4.315415589711552,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+4500,7.767748061480795,3.0,1.0,(a) in-unit,(d) no pets,(a) single,(c) off-street,7.0
+2895,6.904664943538484,1.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,1.0
+3450,9.493914297365416,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+3550,10.356997415307726,3.0,1.5,(a) in-unit,(d) no pets,(c) multi,(d) no parking,8.0
+3260,12.083163651192347,2.0,1.5,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+2095,4.746957148682708,2.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,8.0
+2399,4.824634629297516,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+2600,7.33620650250964,1.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,7.0
+2950,7.33620650250964,1.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3188,6.3609225792348285,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3750,12.946246769134659,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,1.0
+1300,2.157707794855776,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,10.0
+4400,12.514705210163502,3.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,5.0
+2500,5.610040266625019,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,1.0
+4500,12.946246769134659,2.0,1.0,(a) in-unit,(a) both,(a) single,(c) off-street,9.0
+3895,8.19928962045195,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,1.0
+2685,5.143975382936171,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,8.0
+4995,6.749309982308867,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,9.0
+750,1.467241300501928,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,10.0
+3500,6.732048319950022,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+2250,4.746957148682708,0.0,1.0,(b) on-site,(c) cats,(c) multi,(d) no parking,6.0
+5600,10.684969000125804,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(a) valet,9.0
+3100,4.315415589711552,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+2427,9.778731726286377,1.0,1.0,(a) in-unit,(a) both,(c) multi,(d) no parking,10.0
+3195,10.356997415307726,2.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2595,7.767748061480795,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,9.0
+3300,5.221652863550978,1.0,1.0,(a) in-unit,(a) both,(c) multi,(a) valet,9.0
+3200,5.610040266625019,1.0,1.0,(a) in-unit,(c) cats,(c) multi,(b) protected,9.0
+2190,5.178498707653863,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+3500,10.356997415307726,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+3450,8.630831179423105,3.0,1.0,(b) on-site,(c) cats,(c) multi,(c) off-street,8.0
+2195,3.8838740307403974,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,9.0
+4390,9.234989361982723,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+3195,7.767748061480795,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,2.0
+2050,6.0415818255961735,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,5.0
+2050,3.0207909127980868,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(b) protected,9.0
+2000,4.315415589711552,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(c) off-street,4.0
+1875,3.8838740307403974,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,8.0
+5100,10.788538974278882,3.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2500,7.767748061480795,2.0,1.0,(b) on-site,(d) no pets,(b) double,(d) no parking,10.0
+2095,6.904664943538484,1.0,1.0,(c) no laundry,(a) both,(c) multi,(d) no parking,9.0
+3100,5.610040266625019,1.0,1.0,(b) on-site,(a) both,(c) multi,(b) protected,7.0
+2800,6.732048319950022,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,5.0
+2595,5.825811046110596,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,9.0
+4550,8.630831179423105,2.0,2.0,(b) on-site,(a) both,(c) multi,(d) no parking,7.0
+3480,12.169471962986577,2.0,2.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,9.0
+1800,3.7975657189461667,0.0,1.0,(c) no laundry,(d) no pets,(c) multi,(d) no parking,8.0
+2000,6.0415818255961735,0.0,1.0,(b) on-site,(d) no pets,(c) multi,(b) protected,7.0
+2570,5.307961175345209,1.0,1.0,(b) on-site,(a) both,(c) multi,(c) off-street,5.0
+4200,12.083163651192347,3.0,1.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
+5000,15.276571187578897,2.0,2.5,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3650,8.751662815935028,2.0,1.0,(a) in-unit,(c) cats,(c) multi,(d) no parking,9.0
+4000,7.767748061480795,2.0,1.0,(b) on-site,(a) both,(c) multi,(d) no parking,9.0
+2746,4.453508888582323,1.0,1.0,(a) in-unit,(a) both,(c) multi,(b) protected,9.0
+3595,8.630831179423105,2.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+2850,6.904664943538484,1.0,1.0,(b) on-site,(d) no pets,(c) multi,(d) no parking,7.0
+5850,11.220080533250037,1.0,1.0,(a) in-unit,(d) no pets,(c) multi,(b) protected,8.0
+3700,8.026672996863487,2.0,2.0,(a) in-unit,(b) dogs,(c) multi,(b) protected,9.0
+4900,14.67241300501928,5.0,2.0,(a) in-unit,(d) no pets,(c) multi,(d) no parking,7.0
